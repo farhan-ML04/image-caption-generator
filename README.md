@@ -22,7 +22,7 @@ An end-to-end deep learning project that generates captions for images by combin
 ---
 
 ## 🖼️ Sample Output
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/48253603-d84c-45bd-a1f8-e7ab820be498" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/48253603-d84c-45bd-a1f8-e7ab820be498" />
 
 
 
